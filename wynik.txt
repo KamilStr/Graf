@@ -1,0 +1,60 @@
+Dom nr 1: najblizszy sklep - 0, odleglosc - 0.5km.
+Najkrotsza droga: 1->0  Czas przejscia:  3.8min
+
+Dom nr 2: najblizszy sklep - 0, odleglosc - 2.5km.
+Najkrotsza droga: 2->1->0  Czas przejscia: 18.8min
+
+Dom nr 4: najblizszy sklep - 12, odleglosc - 2.0km.
+Najkrotsza droga: 4->12  Czas przejscia: 15.0min
+
+Dom nr 5: najblizszy sklep - 12, odleglosc - 0.5km.
+Najkrotsza droga: 5->12  Czas przejscia:  3.8min
+
+Dom nr 6: najblizszy sklep - 0, odleglosc - 2.0km.
+Najkrotsza droga: 6->7->0  Czas przejscia: 15.0min
+
+Dom nr 7: najblizszy sklep - 0, odleglosc - 1.0km.
+Najkrotsza droga: 7->0  Czas przejscia:  7.5min
+
+Dom nr 8: najblizszy sklep - 0, odleglosc - 2.0km.
+Najkrotsza droga: 8->0  Czas przejscia: 15.0min
+
+Dom nr 9: najblizszy sklep - 0, odleglosc - 2.0km.
+Najkrotsza droga: 9->10->7->0  Czas przejscia: 15.0min
+
+Dom nr 10: najblizszy sklep - 0, odleglosc - 1.5km.
+Najkrotsza droga: 10->7->0  Czas przejscia: 11.3min
+
+Dom nr 13: najblizszy sklep - 12, odleglosc - 0.5km.
+Najkrotsza droga: 13->12  Czas przejscia:  3.8min
+
+Dom nr 14: najblizszy sklep - 12, odleglosc - 2.5km.
+Najkrotsza droga: 14->13->12  Czas przejscia: 18.8min
+
+Dom nr 15: najblizszy sklep - 12, odleglosc - 2.5km.
+Najkrotsza droga: 15->16->12  Czas przejscia: 18.8min
+
+Dom nr 16: najblizszy sklep - 12, odleglosc - 0.5km.
+Najkrotsza droga: 16->12  Czas przejscia:  3.8min
+
+Dom nr 17: najblizszy sklep - 12, odleglosc - 0.5km.
+Najkrotsza droga: 17->12  Czas przejscia:  3.8min
+
+Dom nr 18: najblizszy sklep - 12, odleglosc - 2.5km.
+Najkrotsza droga: 18->16->12  Czas przejscia: 18.8min
+
+Dom nr 19: najblizszy sklep - 12, odleglosc - 3.5km.
+Najkrotsza droga: 19->18->16->12  Czas przejscia: 26.3min
+
+Dom nr 20: najblizszy sklep - 12, odleglosc - 2.0km.
+Najkrotsza droga: 20->21->17->12  Czas przejscia: 15.0min
+
+Dom nr 21: najblizszy sklep - 12, odleglosc - 1.0km.
+Najkrotsza droga: 21->17->12  Czas przejscia:  7.5min
+
+Dom nr 22: najblizszy sklep - 12, odleglosc - 2.0km.
+Najkrotsza droga: 22->21->17->12  Czas przejscia: 15.0min
+
+Dom nr 23: najblizszy sklep - 12, odleglosc - 3.0km.
+Najkrotsza droga: 23->22->21->17->12  Czas przejscia: 22.5min
+
